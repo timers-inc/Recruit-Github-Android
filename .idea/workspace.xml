@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aff4aa31-df43-489f-96ef-d8e6fc7b7044" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/java/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/java/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/app/src/main/java/com/timersinc/recruit/java/myapplication/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/app/src/main/java/com/timersinc/recruit/java/myapplication/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/java/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/build.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rVnXQso4aIRYvBT1qqyWNEq4tJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff4aa31-df43-489f-96ef-d8e6fc7b7044" name="Default Changelist" comment="" />
+      <created>1619070163025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619070163025</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619070514804">
+      <screen x="0" y="0" width="1680" height="965" />
+    </state>
+    <state x="304" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.965@0.0.1680.965" timestamp="1619070514804" />
+    <state x="428" y="229" key="IDE.errors.dialog" timestamp="1619070415801">
+      <screen x="0" y="0" width="1680" height="965" />
+    </state>
+    <state x="428" y="229" key="IDE.errors.dialog/0.0.1680.965@0.0.1680.965" timestamp="1619070415801" />
+  </component>
+</project>
